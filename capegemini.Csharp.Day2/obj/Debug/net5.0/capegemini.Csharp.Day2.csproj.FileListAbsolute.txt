@@ -1,0 +1,16 @@
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\bin\Debug\net5.0\capegemini.Csharp.Day2.exe
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\bin\Debug\net5.0\capegemini.Csharp.Day2.deps.json
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\bin\Debug\net5.0\capegemini.Csharp.Day2.runtimeconfig.json
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\bin\Debug\net5.0\capegemini.Csharp.Day2.runtimeconfig.dev.json
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\bin\Debug\net5.0\capegemini.Csharp.Day2.dll
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\bin\Debug\net5.0\capegemini.Csharp.Day2.pdb
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.csproj.AssemblyReference.cache
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.AssemblyInfoInputs.cache
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.AssemblyInfo.cs
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.csproj.CoreCompileInputs.cache
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.dll
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\refint\capegemini.Csharp.Day2.dll
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.pdb
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\capegemini.Csharp.Day2.genruntimeconfig.cache
+C:\Users\Devanshi Shukla\Downloads\training\capgemini\csharp\capegemini.Csharp.Day2\capegemini.Csharp.Day2\obj\Debug\net5.0\ref\capegemini.Csharp.Day2.dll
